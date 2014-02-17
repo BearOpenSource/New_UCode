@@ -9,7 +9,7 @@ uses
 type
   TForm1 = class(TForm)
     Memo1: TMemo;
-    Memo2: TMemo;
+    Memo2: TMemo;//Bear
     UCOnvert: TButton;
     Memo3: TMemo;
     procedure UCOnvertClick(Sender: TObject);
